@@ -1,4 +1,4 @@
-# find_diff_chars_in_each_line_excel
+## code example that deletes the repeats in each row, keeps the non-repeats and creates an excel again
 The following code block iterates through each row in an Excel file and identifies unique values. It then presents these unique values in a new Excel file for you.
 
 
@@ -23,4 +23,4 @@ run
   ```
   
 
-#Enjoy..
+##Enjoy..
