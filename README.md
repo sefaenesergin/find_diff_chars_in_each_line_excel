@@ -14,12 +14,13 @@ into the code file
   cd find_diff_chars_in_each_line_excel/
   ```
  install libraries
-  - ```shell
+- ```shell
   npm install  
   ```
+run
 - ```shell
   node deleteRepeated.js 
   ```
-  run
+  
 
 #Enjoy..
