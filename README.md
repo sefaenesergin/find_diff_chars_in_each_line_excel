@@ -1,6 +1,5 @@
 ## code example that deletes the repeats in each row, keeps the non-repeats and creates an excel again
-The following code block iterates through each row in an Excel file and identifies unique values. It then presents these unique values in a new Excel file for you.
-
+It scans each row in an excel sheet and if the text in that row repeats, it deletes the repeats, if not, it keeps them.
 
 ## How to install this code script to your PC
 
